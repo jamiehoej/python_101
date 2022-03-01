@@ -16,6 +16,6 @@ def v(t, C_d=0.1):
 
 	return vt
 
-# Function testing
+# function testing
 print(v(t=2, C_d=0.01))
 print(v(t=2))
